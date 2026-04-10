@@ -1,0 +1,9 @@
+ # this project is about cleaning the World layoffs dataset 
+
+1 = I collected the dataset from the internet 
+
+2 = analyzed the dataset , to see the problems that needs to be cleaned 
+
+3 = cleaned the dataset by removing duplicates , deleting useless NULL rows , adjusting rows
+
+4 = making the dataset usefull and understandable to work on 
