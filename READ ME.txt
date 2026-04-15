@@ -1,9 +1,10 @@
- # this project is about cleaning the World layoffs dataset 
+Now we look deeply into the dataset to get the insights 
 
-1 = I collected the dataset from the internet 
+1 - We try to know which companies / countries has the the most total laid off
 
-2 = analyzed the dataset , to see the problems that needs to be cleaned 
+2 - Then make a ranking for the companies in each year to have better insight 
 
-3 = cleaned the dataset by removing duplicates , deleting useless NULL rows , adjusting rows
+3 - We can make CTE for the rolling total , so we can edit if we want 
 
-4 = making the dataset usefull and understandable to work on 
+#### their is alot more to see in this dataset 
+#### you can have better insights for your goal using datasets
